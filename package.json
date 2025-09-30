@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "docz": "^0.12.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-autosuggest": "^9.4.2",
